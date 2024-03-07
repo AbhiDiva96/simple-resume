@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(223, 221, 221);
+}
+.container{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.header{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.perdet{
+    background-color: gray;
+    color: white;
+    margin: 15px;
+    padding-left: 5px;
+}
+.details{
+    border: 1px solid;
+    padding-left: 50px;
+    padding-right: 50px;
+  
+    margin-top: -19px;
+    margin-left: 14px;
+    margin-right: 15px;
+    
+}
+.email{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
